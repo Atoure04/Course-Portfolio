@@ -1,2 +1,2 @@
 # Course-Portfolio
-Data Science Portfolio Worked on the fall semester 
+Data Science Portfolio worked on during the fall semester 
